@@ -1,0 +1,77 @@
+{
+  "status": 0,
+  "environment": "Sandbox",
+  "receipt": {
+    "receipt_type": "ProductionSandbox",
+    "adam_id": 0,
+    "app_item_id": 0,
+    "bundle_id": "it.lisik.nonexistingapp",
+    "application_version": "0.11.2",
+    "download_id": 0,
+    "version_external_identifier": 0,
+    "receipt_creation_date": "2016-02-12 12:22:48 Etc/GMT",
+    "receipt_creation_date_ms": "1455279768000",
+    "receipt_creation_date_pst": "2016-02-12 04:22:48 America/Los_Angeles",
+    "request_date": "2016-02-14 18:10:59 Etc/GMT",
+    "request_date_ms": "1455473459386",
+    "request_date_pst": "2016-02-14 10:10:59 America/Los_Angeles",
+    "original_purchase_date": "2013-08-01 07:00:00 Etc/GMT",
+    "original_purchase_date_ms": "1375340400000",
+    "original_purchase_date_pst": "2013-08-01 00:00:00 America/Los_Angeles",
+    "original_application_version": "1.0",
+    "in_app": [
+      {
+        "quantity": "1",
+        "product_id": "collection_beards",
+        "transaction_id": "1000000184771696",
+        "original_transaction_id": "1000000184771696",
+        "purchase_date": "2015-12-12 14:19:46 Etc/GMT",
+        "purchase_date_ms": "1449929986000",
+        "purchase_date_pst": "2015-12-12 06:19:46 America/Los_Angeles",
+        "original_purchase_date": "2015-12-12 14:19:46 Etc/GMT",
+        "original_purchase_date_ms": "1449929986000",
+        "original_purchase_date_pst": "2015-12-12 06:19:46 America/Los_Angeles",
+        "is_trial_period": "false"
+      },
+      {
+        "quantity": "1",
+        "product_id": "collection_greatRuler",
+        "transaction_id": "1000000174588049",
+        "original_transaction_id": "1000000174588049",
+        "purchase_date": "2015-10-06 10:16:05 Etc/GMT",
+        "purchase_date_ms": "1444126565000",
+        "purchase_date_pst": "2015-10-06 03:16:05 America/Los_Angeles",
+        "original_purchase_date": "2015-10-06 10:16:05 Etc/GMT",
+        "original_purchase_date_ms": "1444126565000",
+        "original_purchase_date_pst": "2015-10-06 03:16:05 America/Los_Angeles",
+        "is_trial_period": "false"
+      },
+      {
+        "quantity": "1",
+        "product_id": "collection_great_ruler",
+        "transaction_id": "1000000176791763",
+        "original_transaction_id": "1000000176791763",
+        "purchase_date": "2015-10-21 14:40:50 Etc/GMT",
+        "purchase_date_ms": "1445438450000",
+        "purchase_date_pst": "2015-10-21 07:40:50 America/Los_Angeles",
+        "original_purchase_date": "2015-10-21 14:40:50 Etc/GMT",
+        "original_purchase_date_ms": "1445438450000",
+        "original_purchase_date_pst": "2015-10-21 07:40:50 America/Los_Angeles",
+        "is_trial_period": "false"
+      },
+      {
+        "quantity": "1",
+        "product_id": "stickersPack_realemoticons",
+        "transaction_id": "1000000166846344",
+        "original_transaction_id": "1000000166846344",
+        "purchase_date": "2015-08-07 16:54:03 Etc/GMT",
+        "purchase_date_ms": "1438966443000",
+        "purchase_date_pst": "2015-08-07 09:54:03 America/Los_Angeles",
+        "original_purchase_date": "2015-08-07 16:54:03 Etc/GMT",
+        "original_purchase_date_ms": "1438966443000",
+        "original_purchase_date_pst": "2015-08-07 09:54:03 America/Los_Angeles",
+        "is_trial_period": "false"
+      }
+    ]
+  }
+}
