@@ -25,7 +25,7 @@ publishing {
             from components.java
             groupId 'it.lisik.itunesvalidator'
             artifactId 'itunesvalidator'
-            version '0.5'
+            version '0.6'
         }
     }
 }
@@ -44,9 +44,9 @@ bintray {
         publicDownloadNumbers = true
 //        attributes= ['a': ['ay1', 'ay2'], 'b': ['bee'], c: 'cee'] //Optional package-level attributes
         version {
-            name = '0.5'
+            name = '0.6'
             desc = 'Validating iTunes receipt from your java projects made easy - or easier - at least!'
-            vcsTag = '0.5'
+            vcsTag = '0.6'
 //            attributes = ['gradle-plugin': 'com.use.less:com.use.less.gradle:gradle-useless-plugin']
         }
     }

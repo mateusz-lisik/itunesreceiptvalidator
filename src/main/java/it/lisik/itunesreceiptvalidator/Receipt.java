@@ -8,11 +8,11 @@ import java.util.Set;
 
 public class Receipt {
     private final String receiptType;
-    private final Integer adamId;
-    private final Integer appItemId;
+    private final Long adamId;
+    private final Long appItemId;
     private final String bundleId;
     private final String applicationVersion;
-    private final Integer downloadId;
+    private final Long downloadId;
     private final Integer versionExternalIdentifier;
     private final DateTime receiptCreationDate;
     private final DateTime requestDate;
@@ -21,7 +21,7 @@ public class Receipt {
     private final Set<PurchasedItem> inAppPurchasedItems;
 
 
-    public Receipt(String receiptType, Integer adamId, Integer appItemId, String bundleId, String applicationVersion, Integer downloadId, Integer versionExternalIdentifier, DateTime receiptCreationDate, DateTime requestDate, DateTime originalPurchaseDate, String originalApplicationVersion, Set<PurchasedItem> inAppPurchasedItems) {
+    public Receipt(String receiptType, Long adamId, Long appItemId, String bundleId, String applicationVersion, Long downloadId, Integer versionExternalIdentifier, DateTime receiptCreationDate, DateTime requestDate, DateTime originalPurchaseDate, String originalApplicationVersion, Set<PurchasedItem> inAppPurchasedItems) {
         this.receiptType = receiptType;
         this.adamId = adamId;
         this.appItemId = appItemId;
@@ -40,11 +40,11 @@ public class Receipt {
         return receiptType;
     }
 
-    public Integer getAdamId() {
+    public Long getAdamId() {
         return adamId;
     }
 
-    public Integer getAppItemId() {
+    public Long getAppItemId() {
         return appItemId;
     }
 
@@ -56,7 +56,7 @@ public class Receipt {
         return applicationVersion;
     }
 
-    public Integer getDownloadId() {
+    public Long getDownloadId() {
         return downloadId;
     }
 
