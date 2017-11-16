@@ -1,4 +1,6 @@
 # iTunes Receipt Validator
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatteprl%2Fitunesreceiptvalidator.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatteprl%2Fitunesreceiptvalidator?ref=badge_shield)
+
 Validating iTunes receipt from your java projects made easy - or easier - at least!
 
 ## Project State
@@ -32,3 +34,6 @@ compile 'it.lisik.itunesvalidator:itunesvalidator:0.5'
   <type>pom</type>
 </dependency>
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatteprl%2Fitunesreceiptvalidator.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatteprl%2Fitunesreceiptvalidator?ref=badge_large)
